@@ -10,6 +10,10 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: npm ci
+      - name: Setting Up Git User
+        run: |
+            git config --global user.email "carlos@mail.com"
+            git config --global user.name "carlos"
       - name: Run release
         run: npm run release --ci
         env:

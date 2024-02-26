@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
-    "auto-changelog": "^2.4.0",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "release-it": "^17.1.1",

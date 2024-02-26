@@ -1,5 +1,7 @@
 
 
+## [2.0.1](https://github.com/carlosxplor/release-it-demo/compare/2.0.0...2.0.1) (2024-02-26)
+
 # [2.0.0](https://github.com/carlosxplor/release-it-demo/compare/1.4.0...2.0.0) (2024-02-26)
 
 

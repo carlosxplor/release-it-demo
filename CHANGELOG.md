@@ -1,5 +1,16 @@
 
 
+## [3.0.0](https://github.com/carlosxplor/release-it-demo/compare/2.3.0...3.0.0) (2024-02-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **example:** la ultima linea rompe el numero de saltos
+
+### Features
+
+* **example:** nuevas funcionalidades de ejemplo ([4a3b185](https://github.com/carlosxplor/release-it-demo/commit/4a3b18569e93422183ea6d1259b0e4171cf3d2ae))
+
 ## [2.3.0](https://github.com/carlosxplor/release-it-demo/compare/2.2.0...2.3.0) (2024-02-26)
 
 

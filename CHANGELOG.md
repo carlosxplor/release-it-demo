@@ -1,5 +1,7 @@
 
 
+## [2.0.1](https://github.com/carlosxplor/release-it-demo/compare/2.0.2...2.0.1) (2024-02-26)
+
 ## [2.0.2](https://github.com/carlosxplor/release-it-demo/compare/2.1.0...2.0.2) (2024-02-26)
 
 ### Changelog

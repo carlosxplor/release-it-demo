@@ -4,13 +4,10 @@
     },
     "github": {
       "release": true
-    },
-    "hooks": {
-      "after:bump": "npx auto-changelog -p"
-    },
+    },    
     "plugins": {
       "@release-it/conventional-changelog": {
-        "preset": "angular",
+        "preset": "conventionalcommits",
         "infile": "CHANGELOG.md"
       }
     }

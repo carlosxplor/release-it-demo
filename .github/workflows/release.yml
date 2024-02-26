@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
       - name: Run release
         run: npm run release --ci
         env:

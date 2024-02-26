@@ -1,5 +1,8 @@
 
 
+* chore: release v2.0.1 (130319e)
+* build(package.json): eliminando auto-changelog y agregando conventionalcommits como convencion (273a7cd)
+
 ## [2.0.1](https://github.com/carlosxplor/release-it-demo/compare/2.0.2...2.0.1) (2024-02-26)
 
 ## [2.0.2](https://github.com/carlosxplor/release-it-demo/compare/2.1.0...2.0.2) (2024-02-26)

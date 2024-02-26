@@ -1,5 +1,12 @@
 
 
+# [2.1.0](https://github.com/carlosxplor/release-it-demo/compare/2.0.1...2.1.0) (2024-02-26)
+
+
+### Features
+
+* **example:** nuevo feature de release ([b2b2e01](https://github.com/carlosxplor/release-it-demo/commit/b2b2e01ab9b7a85626fbb4ab70a56a55b26ce448))
+
 ## [2.0.1](https://github.com/carlosxplor/release-it-demo/compare/2.0.0...2.0.1) (2024-02-26)
 
 # [2.0.0](https://github.com/carlosxplor/release-it-demo/compare/1.4.0...2.0.0) (2024-02-26)

@@ -1,5 +1,7 @@
 
 
+## 3.0.1 (2024-02-27)
+
 ## [3.0.0](https://github.com/carlosxplor/release-it-demo/compare/2.3.0...3.0.0) (2024-02-26)
 
 

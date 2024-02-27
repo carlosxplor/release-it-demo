@@ -12,8 +12,8 @@ jobs:
         run: npm ci
       - name: Setting Up Git User
         run: |
-            git config --global user.email "carlos@mail.com"
-            git config --global user.name "carlos"
+            git config --global user.email "carlos@getxplor.com@mail.com"
+            git config --global user.name "penalba"
       - name: Run release
         run: npm run release --ci
         env:

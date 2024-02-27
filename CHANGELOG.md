@@ -1,5 +1,12 @@
 
 
+## 3.1.1 (2024-02-27)
+
+
+### Bug Fixes
+
+* correcion de merge commit con 3.1.0 ([b834f08](https://github.com/carlosxplor/release-it-demo/commit/b834f08f95ddd4262190a1869a57a6004b2d6fde))
+
 ## 3.1.0 (2024-02-27)
 
 

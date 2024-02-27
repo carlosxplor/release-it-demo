@@ -15,7 +15,7 @@ jobs:
             git config --global user.email "carlos@getxplor.com@mail.com"
             git config --global user.name "penalba"
       - name: Print Token
-        run: echo ${{ vars.REPO_ACCESS_TOKEN  }}
+        run: echo "${{ vars.REPO_ACCESS_TOKEN  }}"
       - name: Run release
         run: npm run release --ci
         env:

@@ -1,5 +1,12 @@
 
 
+## 3.1.0 (2024-02-27)
+
+
+### Features
+
+* **example:** nuevo feature 13 ([827e663](https://github.com/carlosxplor/release-it-demo/commit/827e663f351f0b9b6290a408f5581c4bd883c183))
+
 ## 3.0.2 (2024-02-27)
 
 ## 3.0.1 (2024-02-27)

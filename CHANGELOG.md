@@ -1,5 +1,12 @@
 
 
+## [3.2.0](https://github.com/carlosxplor/release-it-demo/compare/3.1.1...3.2.0) (2024-02-28)
+
+
+### Features
+
+* **example:** nuevo feature 15 ([a4f2ca4](https://github.com/carlosxplor/release-it-demo/commit/a4f2ca4de5d061ef76fcc7e1b8cfeb4e6aec7e12))
+
 ## 3.1.1 (2024-02-27)
 
 

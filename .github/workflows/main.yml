@@ -25,7 +25,7 @@ jobs:
       - name: Get Version
         run: echo "VERSION=$(node -p "require('./package.json').version")" >> "$GITHUB_ENV"
       - name: Print Version
-        run: 'echo "${{ env.VERSION }}"'
+        run: echo "${{ env.VERSION }}"
       - id: versioning
         name: Save Version
         run: echo "version=${{ env.VERSION }}" >> "$GITHUB_OUTPUT"
@@ -37,8 +37,8 @@ jobs:
       IMAGE_TAG: ${{ needs.build.outputs.version }}
     steps:
       - name: Print Version
-        run: 'echo "${{ env.IMAGE_TAG }}"'
+        run: echo "${{ env.IMAGE_TAG }}"
       - name: Docker Build
-        run: 'echo "docker build"'
+        run: echo "docker build"
       - name: Docker Push
-        run: 'echo "docker push"'
+        run: echo "docker push"

@@ -34,10 +34,10 @@ jobs:
     runs-on: ubuntu-22.04
     needs: build
     env:
-      IMAGE_VERSION: ${{ needs.buid.outputs.version }}
+      IMAGE_TAG: ${{ needs.build.outputs.version }}
     steps:
       - name: Print Version
-        run: 'echo "${{ env.IMAGE_VERSION }}"'
+        run: 'echo "${{ env.IMAGE_TAG }}"'
       - name: Docker Build
         run: 'echo "docker build"'
       - name: Docker Push

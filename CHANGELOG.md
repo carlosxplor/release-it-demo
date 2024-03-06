@@ -1,5 +1,7 @@
 
 
+## [3.4.1](https://github.com/carlosxplor/release-it-demo/compare/3.4.0...3.4.1) (2024-03-06)
+
 ## [3.4.0](https://github.com/carlosxplor/release-it-demo/compare/3.3.0...3.4.0) (2024-02-29)
 
 
